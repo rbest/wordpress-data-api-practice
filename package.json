@@ -1,0 +1,25 @@
+{
+  "name": "wordpress-data-api-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "wp-scripts start",
+    "build": "wp-scripts run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://js-advancers@github.com/js-advancers/wordpress-data-api-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/js-advancers/wordpress-data-api-practice/issues"
+  },
+  "homepage": "https://github.com/js-advancers/wordpress-data-api-practice#readme",
+  "devDependencies": {
+    "@wordpress/eslint-plugin": "^2.1.0",
+    "@wordpress/scripts": "^3.1.0"
+  }
+}
